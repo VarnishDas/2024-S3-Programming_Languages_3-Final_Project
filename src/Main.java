@@ -40,7 +40,7 @@ public class Main {
                     Integer[] quicksortArray = randomArray(10);
                     displayArray(quicksortArray);
 
-                    System.out.println("Data set after insertion sorting: ");
+                    System.out.println("Data set after after quicksort: ");
                     displayArray(QuickSort.quickSortInitiator(quicksortArray));
                     break;
                 case "5":
