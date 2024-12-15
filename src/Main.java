@@ -44,7 +44,7 @@ public class Main {
                     displayArray(QuickSort.quickSortInitiator(quicksortArray));
                     break;
                 case "5":
-                    System.out.println("Sorting performance");
+                    System.out.println("Choice 5 not implemented.");
                     break;
                 case "Q":
                     break;
